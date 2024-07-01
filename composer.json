@@ -1,5 +1,5 @@
 {
-    "name": "atawfiq-it/laravel-visitor-tracker",
+    "name": "voerro/laravel-visitor-tracker",
     "description": "Visitor tracker and statistics for Laravel 10",
     "type": "library",
     "license": "MIT",
